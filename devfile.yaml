@@ -1,6 +1,6 @@
 apiVersion: 2.0.0
 metadata:
-  generateName: spring-petclinic-
+  generateName: spring-petclinic
 projects:
   - name: spring-petclinic
     source:
