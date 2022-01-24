@@ -5,7 +5,7 @@ projects:
   - name: spring-petclinic
     source:
       type: git
-      location: 'https://github.com/redhat-developer-demos/spring-petclinic.git'
+      location: 'https://github.com/mkobar/spring-petclinic.git'
       branch: main
 components:
   - id: redhat/java11/latest
